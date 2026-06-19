@@ -12,7 +12,7 @@
 
 Each is an end-to-end, business-focused case study with real datasets, reproducible code, and decision-ready recommendations.
 
-### 🧭 [Recruitment Funnel Analytics](https://github.com/heryttage/recruitment-funnel-analytics)
+### 🧭 [Recruitment Funnel Analytics](https://github.com/heryttage/recruitment_analytics)
 Analysed 1,800 applications across a full hiring funnel to find where candidates drop off and which sourcing channels are worth the money.
 **Found:** employee referrals convert 3× better than job boards at ~1/9 the cost-per-hire.
 `Python` · `SQL` · `Power BI`
